@@ -1,0 +1,4301 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (-960.00 960.00 1033.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1040.0 1256.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1040.0 -520.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1552.0 368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 2048.0 368.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1536.0 368.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 512.0 248.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 512.0 1144.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 0.0 368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1730 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 13
+Reduced 4 texdatas to 3 (136 bytes to 81)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212260, actual size 211644
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+LoadPortals: couldn't read c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (-960.00 960.00 1033.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1040.0 1256.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1040.0 -520.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1552.0 368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 2048.0 368.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1536.0 368.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 512.0 248.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 512.0 1144.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 0.0 368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1730 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 13
+Reduced 4 texdatas to 3 (136 bytes to 81)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212260, actual size 211644
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+LoadPortals: couldn't read c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (3847 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 18 texinfos to 15
+Reduced 5 texdatas to 4 (154 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212260, actual size 211644
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 687 portalclusters
+1336 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 471899
+Average clusters visible: 686
+Building PAS...
+Average clusters audible: 687
+visdatasize:123663  compressed from 120912
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4767 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 24
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 710 portalclusters
+1408 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 503924
+Average clusters visible: 709
+Building PAS...
+Average clusters audible: 710
+visdatasize:132064  compressed from 136320
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4767 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 23
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 705 portalclusters
+1388 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 496926
+Average clusters visible: 704
+Building PAS...
+Average clusters audible: 705
+visdatasize:131134  compressed from 135360
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5159 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 35 texinfos to 26
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 712 portalclusters
+1403 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 506817
+Average clusters visible: 711
+Building PAS...
+Average clusters audible: 712
+visdatasize:132435  compressed from 136704
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5159 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 35 texinfos to 26
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 712 portalclusters
+1404 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 506819
+Average clusters visible: 711
+Building PAS...
+Average clusters audible: 712
+visdatasize:132435  compressed from 136704
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4751 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 30 texinfos to 23
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 705 portalclusters
+1390 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 496922
+Average clusters visible: 704
+Building PAS...
+Average clusters audible: 705
+visdatasize:131134  compressed from 135360
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5143 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 35 texinfos to 28
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 719 portalclusters
+1436 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 43 visible clusters (0.01%)
+Total clusters visible: 516604
+Average clusters visible: 718
+Building PAS...
+Average clusters audible: 719
+visdatasize:135176  compressed from 138048
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5143 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 37 texinfos to 30
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 706 portalclusters
+1404 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 498342
+Average clusters visible: 705
+Building PAS...
+Average clusters audible: 706
+visdatasize:131320  compressed from 135552
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5143 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 37 texinfos to 30
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 717 portalclusters
+1447 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1 visible clusters (0.00%)
+Total clusters visible: 513990
+Average clusters visible: 716
+Building PAS...
+Average clusters audible: 717
+visdatasize:134800  compressed from 137664
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (5143 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 37 texinfos to 30
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 714 portalclusters
+1434 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 509692
+Average clusters visible: 713
+Building PAS...
+Average clusters audible: 714
+visdatasize:134235  compressed from 137088
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6583 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 44 texinfos to 34
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 727 portalclusters
+1474 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 12 visible clusters (0.00%)
+Total clusters visible: 528393
+Average clusters visible: 726
+Building PAS...
+Average clusters audible: 727
+visdatasize:138133  compressed from 139584
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (6583 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 45 texinfos to 34
+Reduced 6 texdatas to 4 (208 bytes to 99)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 212739, actual size 211989
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 727 portalclusters
+1476 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 18 visible clusters (0.00%)
+Total clusters visible: 528321
+Average clusters visible: 726
+Building PAS...
+Average clusters audible: 727
+visdatasize:138133  compressed from 139584
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10807 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 52 texinfos to 41
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 762 portalclusters
+1541 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2031 visible clusters (0.36%)
+Total clusters visible: 571293
+Average clusters visible: 749
+Building PAS...
+Average clusters audible: 762
+visdatasize:152234  compressed from 146304
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11495 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 57 texinfos to 42
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 772 portalclusters
+1576 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1639 visible clusters (0.28%)
+Total clusters visible: 581695
+Average clusters visible: 753
+Building PAS...
+Average clusters audible: 772
+visdatasize:155612  compressed from 160576
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11303 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 55 texinfos to 42
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 775 portalclusters
+1582 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1042 visible clusters (0.18%)
+Total clusters visible: 586575
+Average clusters visible: 756
+Building PAS...
+Average clusters audible: 775
+visdatasize:156230  compressed from 161200
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15023 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 80 texinfos to 57
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 801 portalclusters
+1671 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1396 visible clusters (0.22%)
+Total clusters visible: 633435
+Average clusters visible: 790
+Building PAS...
+Average clusters audible: 801
+visdatasize:168146  compressed from 166608
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (14087 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 74 texinfos to 55
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 801 portalclusters
+1682 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1455 visible clusters (0.23%)
+Total clusters visible: 633026
+Average clusters visible: 790
+Building PAS...
+Average clusters audible: 801
+visdatasize:168127  compressed from 166608
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15087 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 79 texinfos to 59
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 808 portalclusters
+1706 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1613 visible clusters (0.25%)
+Total clusters visible: 643869
+Average clusters visible: 796
+Building PAS...
+Average clusters audible: 808
+visdatasize:169602  compressed from 168064
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15103 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 79 texinfos to 59
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 808 portalclusters
+1706 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1613 visible clusters (0.25%)
+Total clusters visible: 643869
+Average clusters visible: 796
+Building PAS...
+Average clusters audible: 808
+visdatasize:169602  compressed from 168064
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15103 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 78 texinfos to 58
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 808 portalclusters
+1706 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1613 visible clusters (0.25%)
+Total clusters visible: 643869
+Average clusters visible: 796
+Building PAS...
+Average clusters audible: 808
+visdatasize:169602  compressed from 168064
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15087 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 79 texinfos to 59
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 808 portalclusters
+1706 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1613 visible clusters (0.25%)
+Total clusters visible: 643869
+Average clusters visible: 796
+Building PAS...
+Average clusters audible: 808
+visdatasize:169602  compressed from 168064
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (15103 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 79 texinfos to 59
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 808 portalclusters
+1706 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1613 visible clusters (0.25%)
+Total clusters visible: 643869
+Average clusters visible: 796
+Building PAS...
+Average clusters audible: 808
+visdatasize:169602  compressed from 168064
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (16543 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 86 texinfos to 65
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 823 portalclusters
+1767 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 1928 visible clusters (0.29%)
+Total clusters visible: 667519
+Average clusters visible: 811
+Building PAS...
+Average clusters audible: 823
+visdatasize:176051  compressed from 171184
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18799 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 97 texinfos to 76
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 834 portalclusters
+1800 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2059 visible clusters (0.30%)
+Total clusters visible: 684545
+Average clusters visible: 820
+Building PAS...
+Average clusters audible: 834
+visdatasize:181704  compressed from 186816
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18799 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 97 texinfos to 76
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 834 portalclusters
+1800 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2059 visible clusters (0.30%)
+Total clusters visible: 684545
+Average clusters visible: 820
+Building PAS...
+Average clusters audible: 834
+visdatasize:181704  compressed from 186816
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18799 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 97 texinfos to 76
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 834 portalclusters
+1800 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2059 visible clusters (0.30%)
+Total clusters visible: 684545
+Average clusters visible: 820
+Building PAS...
+Average clusters audible: 834
+visdatasize:181704  compressed from 186816
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18799 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 97 texinfos to 76
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 834 portalclusters
+1800 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2059 visible clusters (0.30%)
+Total clusters visible: 684545
+Average clusters visible: 820
+Building PAS...
+Average clusters audible: 834
+visdatasize:181704  compressed from 186816
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18799 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 97 texinfos to 76
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 834 portalclusters
+1800 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2059 visible clusters (0.30%)
+Total clusters visible: 684545
+Average clusters visible: 820
+Building PAS...
+Average clusters audible: 834
+visdatasize:181704  compressed from 186816
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (18799 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 97 texinfos to 76
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 834 portalclusters
+1800 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2059 visible clusters (0.30%)
+Total clusters visible: 684545
+Average clusters visible: 820
+Building PAS...
+Average clusters audible: 834
+visdatasize:181704  compressed from 186816
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19191 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 97 texinfos to 76
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 848 portalclusters
+1841 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2543 visible clusters (0.36%)
+Total clusters visible: 706623
+Average clusters visible: 833
+Building PAS...
+Average clusters audible: 848
+visdatasize:186459  compressed from 189952
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19191 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 100 texinfos to 79
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 852 portalclusters
+1862 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2418 visible clusters (0.34%)
+Total clusters visible: 713950
+Average clusters visible: 837
+Building PAS...
+Average clusters audible: 852
+visdatasize:189032  compressed from 190848
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19191 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 102 texinfos to 80
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 844 portalclusters
+1839 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2301 visible clusters (0.33%)
+Total clusters visible: 700499
+Average clusters visible: 829
+Building PAS...
+Average clusters audible: 844
+visdatasize:185575  compressed from 189056
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19191 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 100 texinfos to 78
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 849 portalclusters
+1854 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2258 visible clusters (0.32%)
+Total clusters visible: 709275
+Average clusters visible: 835
+Building PAS...
+Average clusters audible: 849
+visdatasize:188377  compressed from 190176
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19191 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 100 texinfos to 78
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 844 portalclusters
+1839 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2301 visible clusters (0.33%)
+Total clusters visible: 700499
+Average clusters visible: 829
+Building PAS...
+Average clusters audible: 844
+visdatasize:185575  compressed from 189056
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19583 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 103 texinfos to 81
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 848 portalclusters
+1853 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2371 visible clusters (0.34%)
+Total clusters visible: 707127
+Average clusters visible: 833
+Building PAS...
+Average clusters audible: 848
+visdatasize:186459  compressed from 189952
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19583 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 103 texinfos to 81
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 848 portalclusters
+1853 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2371 visible clusters (0.34%)
+Total clusters visible: 707127
+Average clusters visible: 833
+Building PAS...
+Average clusters audible: 848
+visdatasize:186459  compressed from 189952
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19911 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 108 texinfos to 84
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 850 portalclusters
+1858 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2395 visible clusters (0.34%)
+Total clusters visible: 710465
+Average clusters visible: 835
+Building PAS...
+Average clusters audible: 850
+visdatasize:188590  compressed from 190400
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19911 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 108 texinfos to 84
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 850 portalclusters
+1858 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2395 visible clusters (0.34%)
+Total clusters visible: 710465
+Average clusters visible: 835
+Building PAS...
+Average clusters audible: 850
+visdatasize:188590  compressed from 190400
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (20631 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 89
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 857 portalclusters
+1884 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2454 visible clusters (0.34%)
+Total clusters visible: 722257
+Average clusters visible: 842
+Building PAS...
+Average clusters audible: 857
+visdatasize:191867  compressed from 191968
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21007 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 121 texinfos to 93
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 878 portalclusters
+1945 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2812 visible clusters (0.37%)
+Total clusters visible: 757806
+Average clusters visible: 863
+Building PAS...
+Average clusters audible: 878
+visdatasize:200073  compressed from 196672
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21007 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 121 texinfos to 93
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 878 portalclusters
+1945 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2812 visible clusters (0.37%)
+Total clusters visible: 757806
+Average clusters visible: 863
+Building PAS...
+Average clusters audible: 878
+visdatasize:200073  compressed from 196672
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21759 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 127 texinfos to 98
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 874 portalclusters
+1934 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2767 visible clusters (0.37%)
+Total clusters visible: 750915
+Average clusters visible: 859
+Building PAS...
+Average clusters audible: 874
+visdatasize:199156  compressed from 195776
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21759 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 127 texinfos to 97
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 874 portalclusters
+1925 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 3938 visible clusters (0.53%)
+Total clusters visible: 749802
+Average clusters visible: 857
+Building PAS...
+Average clusters audible: 874
+visdatasize:199115  compressed from 195776
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22199 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 104
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 902 portalclusters
+2058 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4667 visible clusters (0.58%)
+Total clusters visible: 798335
+Average clusters visible: 885
+Building PAS...
+Average clusters audible: 902
+visdatasize:210901  compressed from 216480
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 136 texinfos to 104
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 907 portalclusters
+2093 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4761 visible clusters (0.59%)
+Total clusters visible: 807242
+Average clusters visible: 890
+Building PAS...
+Average clusters audible: 907
+visdatasize:213812  compressed from 217680
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 103
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 903 portalclusters
+2060 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4578 visible clusters (0.57%)
+Total clusters visible: 800123
+Average clusters visible: 886
+Building PAS...
+Average clusters audible: 903
+visdatasize:211133  compressed from 216720
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 103
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 903 portalclusters
+2059 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4582 visible clusters (0.57%)
+Total clusters visible: 800219
+Average clusters visible: 886
+Building PAS...
+Average clusters audible: 903
+visdatasize:211166  compressed from 216720
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 103
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 906 portalclusters
+2079 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4706 visible clusters (0.58%)
+Total clusters visible: 805504
+Average clusters visible: 889
+Building PAS...
+Average clusters audible: 906
+visdatasize:213616  compressed from 217440
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22967 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 103
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 908 portalclusters
+2087 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4735 visible clusters (0.59%)
+Total clusters visible: 809061
+Average clusters visible: 891
+Building PAS...
+Average clusters audible: 908
+visdatasize:214089  compressed from 217920
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22967 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 103
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 907 portalclusters
+2083 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4743 visible clusters (0.59%)
+Total clusters visible: 807226
+Average clusters visible: 889
+Building PAS...
+Average clusters audible: 907
+visdatasize:213851  compressed from 217680
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22967 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 103
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 918 portalclusters
+2117 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4868 visible clusters (0.59%)
+Total clusters visible: 826982
+Average clusters visible: 900
+Building PAS...
+Average clusters audible: 918
+visdatasize:218278  compressed from 220320
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22967 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 103
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 918 portalclusters
+2117 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4862 visible clusters (0.59%)
+Total clusters visible: 826988
+Average clusters visible: 900
+Building PAS...
+Average clusters audible: 918
+visdatasize:218278  compressed from 220320
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22967 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 103
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 918 portalclusters
+2117 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4862 visible clusters (0.59%)
+Total clusters visible: 826988
+Average clusters visible: 900
+Building PAS...
+Average clusters audible: 918
+visdatasize:218278  compressed from 220320
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22967 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 103
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 918 portalclusters
+2117 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4862 visible clusters (0.59%)
+Total clusters visible: 826988
+Average clusters visible: 900
+Building PAS...
+Average clusters audible: 918
+visdatasize:218278  compressed from 220320
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (22967 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 103
+Reduced 8 texdatas to 5 (291 bytes to 127)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213221, actual size 212337
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 918 portalclusters
+2117 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4862 visible clusters (0.59%)
+Total clusters visible: 826988
+Average clusters visible: 900
+Building PAS...
+Average clusters audible: 918
+visdatasize:218278  compressed from 220320
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+1971 faces
+26229088 square feet [3776988672.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1971 patches before subdivision
+4583 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 261880, max 170
+transfer lists:   2.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0013 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 64/8192          768/98304    ( 0.8%) 
+brushsides             514/65536        4112/524288   ( 0.8%) 
+planes                 600/65536       12000/1310720  ( 0.9%) 
+vertexes              2067/65536       24804/786432   ( 3.2%) 
+nodes                 2575/65536       82400/2097152  ( 3.9%) 
+texinfos               103/12288        7416/884736   ( 0.8%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1971/65536      110376/3670016  ( 3.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              273/65536       15288/3670016  ( 0.4%) 
+leaves                2577/65536       82464/2097152  ( 3.9%) 
+leaffaces             2089/65536        4178/131072   ( 3.2%) 
+leafbrushes           1816/65536        3632/131072   ( 2.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             9164/512000      36656/2048000  ( 1.8%) 
+edges                 4697/256000      18788/1024000  ( 1.8%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             16/32768         160/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           225/65536         450/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      258648/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      218278/16777216 ( 1.3%) 
+entdata               [variable]         342/393216   ( 0.1%) 
+LDR ambient table     2577/65536       10308/262144   ( 3.9%) 
+HDR ambient table     2577/65536       10308/262144   ( 3.9%) 
+LDR leaf ambient       918/65536       25704/1835008  ( 1.4%) 
+HDR leaf ambient      2577/65536       72156/1835008  ( 3.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212337/0        ( 0.0%) 
+physics               [variable]       22967/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4140
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 176 texinfos to 143
+Reduced 24 texdatas to 20 (786 bytes to 575)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213679, actual size 212661
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 955 portalclusters
+2258 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 6058 visible clusters (0.68%)
+Total clusters visible: 893541
+Average clusters visible: 935
+Building PAS...
+Average clusters audible: 955
+visdatasize:236690  compressed from 229200
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+2089 faces
+26305632 square feet [3788011008.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2089 patches before subdivision
+4825 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 341586, max 210
+transfer lists:   2.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 77/8192          924/98304    ( 0.9%) 
+brushsides             598/65536        4784/524288   ( 0.9%) 
+planes                 640/65536       12800/1310720  ( 1.0%) 
+vertexes              2199/65536       26388/786432   ( 3.4%) 
+nodes                 2639/65536       84448/2097152  ( 4.0%) 
+texinfos               143/12288       10296/884736   ( 1.2%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2089/65536      116984/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              330/65536       18480/3670016  ( 0.5%) 
+leaves                2641/65536       84512/2097152  ( 4.0%) 
+leaffaces             2220/65536        4440/131072   ( 3.4%) 
+leafbrushes           1871/65536        3742/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             9912/512000      39648/2048000  ( 1.9%) 
+edges                 5110/256000      20440/1024000  ( 2.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             20/32768         200/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           279/65536         558/131072   ( 0.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      217036/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      236690/16777216 ( 1.4%) 
+entdata               [variable]         342/393216   ( 0.1%) 
+LDR ambient table     2641/65536       10564/262144   ( 4.0%) 
+HDR ambient table     2641/65536       10564/262144   ( 4.0%) 
+LDR leaf ambient       955/65536       26740/1835008  ( 1.5%) 
+HDR leaf ambient      2641/65536       73948/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212661/0        ( 0.0%) 
+physics               [variable]       27431/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4424
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 176 texinfos to 143
+Reduced 24 texdatas to 20 (786 bytes to 575)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213679, actual size 212661
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+ 955 portalclusters
+2258 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 6058 visible clusters (0.68%)
+Total clusters visible: 893541
+Average clusters visible: 935
+Building PAS...
+Average clusters audible: 955
+visdatasize:236690  compressed from 229200
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (36992 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 232 texinfos to 194
+Reduced 34 texdatas to 30 (1145 bytes to 934)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213679, actual size 212661
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1089 portalclusters
+2752 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10793 visible clusters (0.93%)
+Total clusters visible: 1157046
+Average clusters visible: 1062
+Building PAS...
+Average clusters audible: 1089
+visdatasize:306893  compressed from 313632
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38304 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 235 texinfos to 195
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213679, actual size 212661
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1089 portalclusters
+2752 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10795 visible clusters (0.93%)
+Total clusters visible: 1157046
+Average clusters visible: 1062
+Building PAS...
+Average clusters audible: 1089
+visdatasize:306893  compressed from 313632
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38304 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 235 texinfos to 195
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213679, actual size 212661
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1089 portalclusters
+2752 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10821 visible clusters (0.94%)
+Total clusters visible: 1157072
+Average clusters visible: 1062
+Building PAS...
+Average clusters audible: 1089
+visdatasize:306893  compressed from 313632
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38304 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 235 texinfos to 195
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213679, actual size 212661
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1089 portalclusters
+2752 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10815 visible clusters (0.93%)
+Total clusters visible: 1157066
+Average clusters visible: 1062
+Building PAS...
+Average clusters audible: 1089
+visdatasize:306893  compressed from 313632
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38304 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 235 texinfos to 195
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213679, actual size 212661
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1089 portalclusters
+2752 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 10821 visible clusters (0.94%)
+Total clusters visible: 1157072
+Average clusters visible: 1062
+Building PAS...
+Average clusters audible: 1089
+visdatasize:306893  compressed from 313632
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 231 texinfos to 193
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213679, actual size 212661
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1386 portalclusters
+3396 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 15434 visible clusters (0.82%)
+Total clusters visible: 1889817
+Average clusters visible: 1363
+Building PAS...
+Average clusters audible: 1385
+visdatasize:493581  compressed from 487872
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/mpa115*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/mpa115*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 231 texinfos to 193
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 175837, actual size 174819
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1386 portalclusters
+3396 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 15434 visible clusters (0.82%)
+Total clusters visible: 1889817
+Average clusters visible: 1363
+Building PAS...
+Average clusters audible: 1385
+visdatasize:493581  compressed from 487872
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 231 texinfos to 193
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 213679, actual size 212661
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1386 portalclusters
+3396 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 15434 visible clusters (0.82%)
+Total clusters visible: 1889817
+Average clusters visible: 1363
+Building PAS...
+Average clusters audible: 1385
+visdatasize:493581  compressed from 487872
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 231 texinfos to 193
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 175837, actual size 174819
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1386 portalclusters
+3396 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 15434 visible clusters (0.82%)
+Total clusters visible: 1889817
+Average clusters visible: 1363
+Building PAS...
+Average clusters audible: 1385
+visdatasize:493581  compressed from 487872
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (39840 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 238 texinfos to 199
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 175837, actual size 174819
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1410 portalclusters
+3474 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 15845 visible clusters (0.81%)
+Total clusters visible: 1956270
+Average clusters visible: 1387
+Building PAS...
+Average clusters audible: 1409
+visdatasize:510571  compressed from 518880
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 231 texinfos to 193
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 175837, actual size 174819
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1386 portalclusters
+3396 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 15434 visible clusters (0.82%)
+Total clusters visible: 1889817
+Average clusters visible: 1363
+Building PAS...
+Average clusters audible: 1385
+visdatasize:493581  compressed from 487872
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 231 texinfos to 193
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 175837, actual size 174819
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1386 portalclusters
+3396 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 15434 visible clusters (0.82%)
+Total clusters visible: 1889817
+Average clusters visible: 1363
+Building PAS...
+Average clusters audible: 1385
+visdatasize:493581  compressed from 487872
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 231 texinfos to 193
+Reduced 35 texdatas to 31 (1172 bytes to 961)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 175837, actual size 174819
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1386 portalclusters
+3396 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 15434 visible clusters (0.82%)
+Total clusters visible: 1889817
+Average clusters visible: 1363
+Building PAS...
+Average clusters audible: 1385
+visdatasize:493581  compressed from 487872
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31360 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 326 texinfos to 196
+Reduced 21 texdatas to 20 (677 bytes to 622)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 174418, actual size 173802
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1111 portalclusters
+2498 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 513 visible clusters (0.04%)
+Total clusters visible: 1232959
+Average clusters visible: 1109
+Building PAS...
+Average clusters audible: 1111
+visdatasize:317750  compressed from 319968
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (53403 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 465 texinfos to 312
+Reduced 37 texdatas to 33 (1234 bytes to 1023)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 175837, actual size 174819
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1397 portalclusters
+3439 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 15302 visible clusters (0.80%)
+Total clusters visible: 1920678
+Average clusters visible: 1374
+Building PAS...
+Average clusters audible: 1396
+visdatasize:500157  compressed from 491744
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (54137 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 472 texinfos to 315
+Reduced 41 texdatas to 36 (1365 bytes to 1097)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 176300, actual size 175148
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1423 portalclusters
+3503 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 18258 visible clusters (0.92%)
+Total clusters visible: 1984108
+Average clusters visible: 1394
+Building PAS...
+Average clusters audible: 1422
+visdatasize:517940  compressed from 523664
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (55413 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 480 texinfos to 319
+Reduced 42 texdatas to 36 (1424 bytes to 1097)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 176769, actual size 175483
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1434 portalclusters
+3536 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20687 visible clusters (1.03%)
+Total clusters visible: 2011603
+Average clusters visible: 1402
+Building PAS...
+Average clusters audible: 1433
+visdatasize:527710  compressed from 527712
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (55413 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 480 texinfos to 319
+Reduced 42 texdatas to 36 (1424 bytes to 1097)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 176769, actual size 175483
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1434 portalclusters
+3536 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20687 visible clusters (1.03%)
+Total clusters visible: 2011603
+Average clusters visible: 1402
+Building PAS...
+Average clusters audible: 1433
+visdatasize:527710  compressed from 527712
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (55413 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 480 texinfos to 319
+Reduced 42 texdatas to 36 (1424 bytes to 1097)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 176769, actual size 175483
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1434 portalclusters
+3536 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20687 visible clusters (1.03%)
+Total clusters visible: 2011603
+Average clusters visible: 1402
+Building PAS...
+Average clusters audible: 1433
+visdatasize:527710  compressed from 527712
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (55413 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 479 texinfos to 319
+Reduced 41 texdatas to 36 (1366 bytes to 1097)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 176303, actual size 175151
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1425 portalclusters
+3506 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 19443 visible clusters (0.98%)
+Total clusters visible: 1987895
+Average clusters visible: 1395
+Building PAS...
+Average clusters audible: 1424
+visdatasize:521477  compressed from 524400
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (56197 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 486 texinfos to 321
+Reduced 41 texdatas to 36 (1366 bytes to 1097)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 176303, actual size 175151
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1431 portalclusters
+3536 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20746 visible clusters (1.04%)
+Total clusters visible: 2003448
+Average clusters visible: 1400
+Building PAS...
+Average clusters audible: 1430
+visdatasize:523872  compressed from 526608
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (61141 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 494 texinfos to 330
+Reduced 41 texdatas to 36 (1366 bytes to 1097)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 176303, actual size 175151
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1517 portalclusters
+3601 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 22544 visible clusters (1.04%)
+Total clusters visible: 2162592
+Average clusters visible: 1425
+Building PAS...
+Average clusters audible: 1516
+visdatasize:586208  compressed from 582528
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cx*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (60749 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 494 texinfos to 329
+Reduced 41 texdatas to 36 (1366 bytes to 1097)
+Writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+Wrote ZIP buffer, estimated size 176303, actual size 175151
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+reading c:\mapsrc\surf_hope_stage\surf_hope_lodyb.prt
+1457 portalclusters
+3408 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 14270 visible clusters (0.71%)
+Total clusters visible: 2020978
+Average clusters visible: 1387
+Building PAS...
+Average clusters audible: 1456
+visdatasize:543430  compressed from 536176
+writing c:\mapsrc\surf_hope_stage\surf_hope_lodyb.bsp
+0 seconds elapsed
